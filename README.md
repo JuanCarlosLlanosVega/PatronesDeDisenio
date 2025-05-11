@@ -16,7 +16,7 @@ Esta es una muestra de cómo el sistema imprime la demanda registrada desde cons
 
 El siguiente diagrama UML muestra la estructura de clases e interfaces del sistema, incluyendo los patrones utilizados:
 
-![Diagrama UML](./DiagramaRegistroDemanda.PNG)
+![Diagrama UML](../DiagramaRegistroDemanda.PNG)
 
 ---
 
