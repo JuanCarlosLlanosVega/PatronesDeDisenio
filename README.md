@@ -8,7 +8,7 @@ Este proyecto fue desarrollado para simular el proceso de ingreso y registro de 
 
 Esta es una muestra de cómo el sistema imprime la demanda registrada desde consola:
 
-![Salida del Registro](../RegistroDemanda.PNG)
+![Registro de Demanda](../RegistroDemanda.PNG)
 
 ---
 
